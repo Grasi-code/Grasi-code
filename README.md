@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Alex a half time programmer working at Swisscom
+Im Alex a Software Engineer working at Swisscom
 
 - 🔭 I’m currently working at HIVE
 - 🌱 I’m currently learning Vue.js JS
